@@ -27,7 +27,3 @@ Everis Kotlin Developer Bootcamp :green_heart:
 ****
 
 :computer: chicorialabs.com.br/blog
-=======
-# bootcamp-calculadora
-Exercício final do módulo de introdução à sintaxe Kotlin - DIO Everis Kotlin Bootcamp
-
